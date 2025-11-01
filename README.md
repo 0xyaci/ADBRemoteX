@@ -16,6 +16,9 @@ ADBRemoteX provides a simple graphical interface for controlling your Android TV
 - **Persistent Settings**: Automatically remembers your last connected IP
 - **Portable**: Single executable with no installation required
 - **Open Source**: Built in C# (.NET) with accessible source code
+- **UI**: The most ugliest UI known to man but its okay you'll get used to it
+
+<img width="354" height="741" alt="ADBRemoteX_9hRA1IEAAq" src="https://github.com/user-attachments/assets/db1db564-5ffc-4131-9ca7-1c9e8b3c64d6" />
 
 ## How It Works
 
