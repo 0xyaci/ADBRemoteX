@@ -1,0 +1,11 @@
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\bin\Debug\ADBRemoteX.exe.config
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\bin\Debug\ADBRemoteX.exe
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\bin\Debug\ADBRemoteX.pdb
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.csproj.AssemblyReference.cache
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.Form1.resources
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.Properties.Resources.resources
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.csproj.GenerateResource.cache
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.csproj.CoreCompileInputs.cache
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.exe
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.pdb
+C:\Users\yaci\source\repos\ADBRemoteX\ADBRemoteX\obj\Debug\ADBRemoteX.exe.config
